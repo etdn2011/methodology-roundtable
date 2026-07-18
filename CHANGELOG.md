@@ -4,6 +4,48 @@
 
 ---
 
+## [0.3.0] - 2026-07-18
+
+### 方法论库扩展至32个
+
+#### 新增
+- **健康类方法论×8**:
+  - `systems-thinking` — 系统思考
+  - `learned-optimism` — 习得性乐观
+  - `perma-model` — PERMA模型
+  - `nudge-theory` — 行为助推
+  - `cognitive-bias` — 认知偏差（双系统理论）
+  - `probabilistic-thinking` — 概率思维
+  - `anti-fragility` — 反脆弱
+  - `direction-not-destination` — 方向非终点
+- **社交类方法论×8**:
+  - `jobs-to-be-done-relations` — JTBD关系版
+  - `giver-taker-matcher` — 给予者/索取者/互利者
+  - `radical-candor` — 绝对坦率
+  - `influence-principles` — 影响力六原则
+  - `growth-mindset` — 成长型思维
+  - `family-systems` — 家庭系统动态
+  - `nonviolent-communication` — 非暴力沟通
+  - `leverage-thinking` — 杠杆思维
+- **科技与前沿类方法论×8**:
+  - `bottom-up-industrialization` — 自下而上产业化
+  - `data-centric-ai` — 数据为中心AI
+  - `entropy-decrease` — 熵减理论
+  - `compression-as-understanding` — 压缩即理解
+  - `safety-capability-intertwined` — 安全-能力纠缠
+  - `human-centric-ai` — 以人为本AI
+  - `disruptive-innovation` — 颠覆式创新
+  - `day-one-mindset` — Day 1心态
+
+#### 变更
+- 所有方法论新增「参考案例」段落——从原专家经历中挑选经典案例辅助理解概念
+- 输出规范更新：正文中不提方法论名称，融进叙述逻辑
+- 交叉讨论改为「层次衔接检验」
+- 群友发言300-500字，交叉讨论回应不超过3句
+- 新增引用准确性规则：数据/政策引用前必须确认原始含义
+
+---
+
 ## [0.2.0] - 2026-07-18
 
 ### 角色系统重构 + 输出风格大改
